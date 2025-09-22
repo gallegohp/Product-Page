@@ -123,7 +123,7 @@
         width: 50vw;
         display: flex;
         justify-content: center;
-        background-image: url("../assets/imagenes/hojasFondo.jpg");
+        background-image: url("/assets/imagenes/hojasFondo.jpg");
         background-position: center;
         background-size: cover;
         padding: 60px 0;
